@@ -705,7 +705,7 @@ VIE.Util = {
                           ];
                       };
                   }(service.vie.namespaces)
-              },
+              }
         ];
         return res;
     },
